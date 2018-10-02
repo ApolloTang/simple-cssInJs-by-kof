@@ -15,6 +15,6 @@ console.log(classes.cssInJsBtn) // 'cssInJsBtn-1'
 
 const btn2 = document.createElement('button');
 btn2.className =  classes.cssInJsBtn
-btn2.innerHTML =  'CSSinJS button2' + classes.cssInJsBtn
+btn2.innerHTML =  'button2' + classes.cssInJsBtn
 
 export default btn2;
